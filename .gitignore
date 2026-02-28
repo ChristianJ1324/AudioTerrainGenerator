@@ -1,0 +1,33 @@
+# Visual Studio user state
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+
+# MSBuild / compiler outputs
+bin/
+obj/
+x64/
+x86/
+Debug/
+Release/
+*.tlog
+*.lastbuildstate
+*.ipdb
+*.iobj
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.exp
+*.recipe
+
+# Generated runtime outputs from audio_terrain
+out/
+audio_terrain/out/
+**/height.png
+**/normal.png
+**/features.png
+**/debug_features.png
+**/preview.png
